@@ -21,7 +21,7 @@ Tool Python untuk memindai jaringan Wi-Fi yang tersedia dan dapat dijangkau oleh
 
 1. Perbarui daftar paket
 
-`apt update`
+``apt update``
 
 2. Instal kebutuhan sistem
 
